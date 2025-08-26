@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/mkovdrysh/accs-pd-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
